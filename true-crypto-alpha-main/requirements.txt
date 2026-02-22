@@ -1,0 +1,34 @@
+# TRUE CRYPTO ALPHA - Dependencies
+
+# Core
+ccxt==4.1.48
+pandas==2.1.4
+numpy==1.26.2
+python-dotenv==1.0.0
+
+# Technical Analysis
+ta-lib==0.4.28
+pandas-ta==0.3.14b
+
+# Machine Learning
+scikit-learn==1.3.2
+tensorflow==2.15.0
+keras==2.15.0
+
+# Telegram Bot
+python-telegram-bot==20.7
+
+# Async
+aiohttp==3.9.1
+aiodns==3.1.1
+
+# Database
+aiosqlite==0.19.0
+
+# Utilities
+plotly==5.18.0
+colorama==0.4.6
+pytz==2023.3
+
+# Logging
+loguru==0.7.2
